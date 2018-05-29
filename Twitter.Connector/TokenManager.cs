@@ -10,8 +10,8 @@ namespace Twitter.Connector
 {
     public class TokenManager
     {
-        private string _key = "dav3wJpsh47L5P5FANccs8z8l";
-        private string _secret = "URSVuNrIfP7iSoU0Mp39qStxe25K6ZDI2LqtKgkp1E1bNENtVb";
+        private string _key = "Your key here";
+        private string _secret = "Your secret here";
         private string _token = "";
         public string Token {
             get
