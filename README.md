@@ -21,7 +21,7 @@ There is basicaly 2 events in here:
 When the client searches for something, the service calles the Api via connector and receives the resuls. Then it uses the suitable fields to update the Lucene index for future use (filtering the results).
 
 2- Filtering the results based on the terms coming from the front tier:
-The indexes contain all required data to filter and show the filtered results to the user. The search can be done using multiple words and also it can be done using Fazzy parameters using "~" following by error acceptance rate for mispelling and typos.
+The indexes contain all required data to filter and show the filtered results to the user. The search can be done using multiple words and also it can be done using Fazzy parameters using ""~"" following by error acceptance rate for mispelling and typos.
 i.e: If the filter term is *spac~0.5* it will return space as well as spec.
 
 This project is based on .Net framework since Lucene.net is not compatible with .Net standard yet. 
