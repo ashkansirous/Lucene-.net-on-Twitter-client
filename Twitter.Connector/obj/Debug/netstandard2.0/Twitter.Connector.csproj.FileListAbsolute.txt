@@ -1,0 +1,9 @@
+C:\Users\asi.CHARLIETANGO\source\repos\TwitterClient\Twitter.Connector\bin\Debug\netstandard2.0\Twitter.Connector.deps.json
+C:\Users\asi.CHARLIETANGO\source\repos\TwitterClient\Twitter.Connector\bin\Debug\netstandard2.0\Twitter.Connector.dll
+C:\Users\asi.CHARLIETANGO\source\repos\TwitterClient\Twitter.Connector\obj\Debug\netstandard2.0\Twitter.Connector.csproj.CoreCompileInputs.cache
+C:\Users\asi.CHARLIETANGO\source\repos\TwitterClient\Twitter.Connector\obj\Debug\netstandard2.0\Twitter.Connector.AssemblyInfoInputs.cache
+C:\Users\asi.CHARLIETANGO\source\repos\TwitterClient\Twitter.Connector\obj\Debug\netstandard2.0\Twitter.Connector.AssemblyInfo.cs
+C:\Users\asi.CHARLIETANGO\source\repos\TwitterClient\Twitter.Connector\bin\Debug\netstandard2.0\Twitter.Connector.pdb
+C:\Users\asi.CHARLIETANGO\source\repos\TwitterClient\Twitter.Connector\obj\Debug\netstandard2.0\Twitter.Connector.dll
+C:\Users\asi.CHARLIETANGO\source\repos\TwitterClient\Twitter.Connector\obj\Debug\netstandard2.0\Twitter.Connector.pdb
+C:\Users\asi.CHARLIETANGO\source\repos\TwitterClient\Twitter.Connector\obj\Debug\netstandard2.0\Twitter.Connector.csprojResolveAssemblyReference.cache
