@@ -3,7 +3,7 @@ The purpose of this application is to show how easy it is to use Lucene.net. To 
 
 Startup
 --
-Create an application in Twitter at https://apps.twitter.com/ and replace the ##Key## and ##Secret## in the TokenManager in connector project. You are good to go :)
+Create an application at Twitter at https://apps.twitter.com/ and replace the ##Key## and ##Secret## in the TokenManager in connector project. You are good to go :)
 
 The structure
 --
